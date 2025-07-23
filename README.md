@@ -18,7 +18,7 @@ Sistem form input yang dirancang dengan tampilan elegan dan dilengkapi dengan **
 
 ## 🔗 Live Demo
 
-[🔍 Lihat Live Demo](https://example.com/form-validasi)
+[🔍 Lihat Live Demo](https://rakamaulana7.github.io/form-validasi-elegan/)
 
 ## 🛠️ Teknologi
 
